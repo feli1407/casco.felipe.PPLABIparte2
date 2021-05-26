@@ -1,0 +1,425 @@
+# depslib dependency file v1.0
+1621431937 source:c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1621368425 c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\funciones.h
+
+1620844006 source:c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fechas.h"
+
+1620843901 c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\fechas.h
+
+1621434870 source:c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"tipo.h"
+	"colores.h"
+	"servicios.h"
+	"bicicleta.h"
+	"trabajo.h"
+
+1621431324 c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\tipo.h
+
+1621431583 c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\colores.h
+
+1621434251 c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\servicios.h
+
+1621433380 c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\bicicleta.h
+	"tipo.h"
+	"colores.h"
+
+1621433372 source:c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"bicicleta.h"
+	"tipo.h"
+	"colores.h"
+
+1621431558 source:c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"colores.h"
+
+1621431470 source:c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1621434243 source:c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicios.h"
+
+1621434737 c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\trabajo.h
+	"funciones.h"
+	"tipo.h"
+	"colores.h"
+	"servicios.h"
+	"bicicleta.h"
+	"fechas.h"
+
+1621434951 source:c:\users\carlo\desktop\codeblocks\parcialbicicletalabo\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+
+1621796072 source:c:\users\carlo\desktop\parcialbicicletalabo\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"bicicleta.h"
+	"tipo.h"
+	"colores.h"
+
+1621368425 c:\users\carlo\desktop\parcialbicicletalabo\funciones.h
+
+1621796057 c:\users\carlo\desktop\parcialbicicletalabo\bicicleta.h
+	"tipo.h"
+	"colores.h"
+
+1621431324 c:\users\carlo\desktop\parcialbicicletalabo\tipo.h
+
+1621431583 c:\users\carlo\desktop\parcialbicicletalabo\colores.h
+
+1621431558 source:c:\users\carlo\desktop\parcialbicicletalabo\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"colores.h"
+
+1620844006 source:c:\users\carlo\desktop\parcialbicicletalabo\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fechas.h"
+
+1621796784 c:\users\carlo\desktop\parcialbicicletalabo\fechas.h
+
+1621431937 source:c:\users\carlo\desktop\parcialbicicletalabo\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1621434243 source:c:\users\carlo\desktop\parcialbicicletalabo\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicios.h"
+
+1621434251 c:\users\carlo\desktop\parcialbicicletalabo\servicios.h
+
+1621431470 source:c:\users\carlo\desktop\parcialbicicletalabo\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1621796175 source:c:\users\carlo\desktop\parcialbicicletalabo\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+
+1621796184 c:\users\carlo\desktop\parcialbicicletalabo\trabajo.h
+	"funciones.h"
+	"tipo.h"
+	"colores.h"
+	"servicios.h"
+	"bicicleta.h"
+	"fechas.h"
+
+1621795782 source:c:\users\carlo\desktop\parcialbicicletalabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"tipo.h"
+	"colores.h"
+	"servicios.h"
+	"bicicleta.h"
+	"trabajo.h"
+
+1622037381 source:c:\users\carlo\desktop\parcialbicicletalabo - copia\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"bicicleta.h"
+	"tipo.h"
+	"colores.h"
+	"cliente.h"
+
+1621998449 c:\users\carlo\desktop\parcialbicicletalabo - copia\funciones.h
+
+1622034697 c:\users\carlo\desktop\parcialbicicletalabo - copia\bicicleta.h
+	"tipo.h"
+	"colores.h"
+	"cliente.h"
+
+1621806753 c:\users\carlo\desktop\parcialbicicletalabo - copia\tipo.h
+
+1621806856 c:\users\carlo\desktop\parcialbicicletalabo - copia\colores.h
+
+1622036556 source:c:\users\carlo\desktop\parcialbicicletalabo - copia\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"colores.h"
+
+1622037075 source:c:\users\carlo\desktop\parcialbicicletalabo - copia\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1622035948 source:c:\users\carlo\desktop\parcialbicicletalabo - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"tipo.h"
+	"colores.h"
+	"servicios.h"
+	"bicicleta.h"
+	"trabajo.h"
+	"informes.h"
+	"hardcodeo.h"
+	"cliente.h"
+
+1621805835 c:\users\carlo\desktop\parcialbicicletalabo - copia\servicios.h
+
+1622035351 c:\users\carlo\desktop\parcialbicicletalabo - copia\trabajo.h
+	"funciones.h"
+	"tipo.h"
+	"colores.h"
+	"servicios.h"
+	"bicicleta.h"
+	"fechas.h"
+
+1621806605 c:\users\carlo\desktop\parcialbicicletalabo - copia\fechas.h
+
+1622031043 source:c:\users\carlo\desktop\parcialbicicletalabo - copia\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicios.h"
+
+1622031006 source:c:\users\carlo\desktop\parcialbicicletalabo - copia\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1622035334 source:c:\users\carlo\desktop\parcialbicicletalabo - copia\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+
+1621797089 source:c:\users\carlo\desktop\parcialbicicletalabo - copia\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fechas.h"
+
+1622035513 c:\users\carlo\desktop\parcialbicicletalabo - copia\informes.h
+
+1622036695 source:c:\users\carlo\desktop\parcialbicicletalabo - copia\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"colores.h"
+	"tipo.h"
+	"funciones.h"
+	"trabajo.h"
+	"servicios.h"
+
+1622036189 source:c:\users\carlo\desktop\parcialbicicletalabo - copia\hardcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"trabajo.h"
+	"fechas.h"
+	"cliente.h"
+
+1622035910 c:\users\carlo\desktop\parcialbicicletalabo - copia\hardcodeo.h
+
+1622034351 c:\users\carlo\desktop\parcialbicicletalabo - copia\cliente.h
+
+1622034335 source:c:\users\carlo\desktop\parcialbicicletalabo - copia\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"cliente.h"
+
+1622037381 source:c:\users\carlo\desktop\parcialbicicletalabo-parte2\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"bicicleta.h"
+	"tipo.h"
+	"colores.h"
+	"cliente.h"
+
+1621998449 c:\users\carlo\desktop\parcialbicicletalabo-parte2\funciones.h
+
+1622034697 c:\users\carlo\desktop\parcialbicicletalabo-parte2\bicicleta.h
+	"tipo.h"
+	"colores.h"
+	"cliente.h"
+
+1621806753 c:\users\carlo\desktop\parcialbicicletalabo-parte2\tipo.h
+
+1621806856 c:\users\carlo\desktop\parcialbicicletalabo-parte2\colores.h
+
+1622034351 c:\users\carlo\desktop\parcialbicicletalabo-parte2\cliente.h
+
+1622034335 source:c:\users\carlo\desktop\parcialbicicletalabo-parte2\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"cliente.h"
+
+1622036556 source:c:\users\carlo\desktop\parcialbicicletalabo-parte2\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"colores.h"
+
+1621797089 source:c:\users\carlo\desktop\parcialbicicletalabo-parte2\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fechas.h"
+
+1621806605 c:\users\carlo\desktop\parcialbicicletalabo-parte2\fechas.h
+
+1622037075 source:c:\users\carlo\desktop\parcialbicicletalabo-parte2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1622036189 source:c:\users\carlo\desktop\parcialbicicletalabo-parte2\hardcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"trabajo.h"
+	"fechas.h"
+	"cliente.h"
+
+1622035351 c:\users\carlo\desktop\parcialbicicletalabo-parte2\trabajo.h
+	"funciones.h"
+	"tipo.h"
+	"colores.h"
+	"servicios.h"
+	"bicicleta.h"
+	"fechas.h"
+
+1621805835 c:\users\carlo\desktop\parcialbicicletalabo-parte2\servicios.h
+
+1622037998 source:c:\users\carlo\desktop\parcialbicicletalabo-parte2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"colores.h"
+	"tipo.h"
+	"funciones.h"
+	"trabajo.h"
+	"servicios.h"
+
+1622035948 source:c:\users\carlo\desktop\parcialbicicletalabo-parte2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"tipo.h"
+	"colores.h"
+	"servicios.h"
+	"bicicleta.h"
+	"trabajo.h"
+	"informes.h"
+	"hardcodeo.h"
+	"cliente.h"
+
+1622035513 c:\users\carlo\desktop\parcialbicicletalabo-parte2\informes.h
+
+1622038140 c:\users\carlo\desktop\parcialbicicletalabo-parte2\hardcodeo.h
+
+1622031043 source:c:\users\carlo\desktop\parcialbicicletalabo-parte2\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicios.h"
+
+1622031006 source:c:\users\carlo\desktop\parcialbicicletalabo-parte2\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1622035334 source:c:\users\carlo\desktop\parcialbicicletalabo-parte2\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+
